@@ -42,8 +42,8 @@ El objetivo es crear una aplicación interactiva que permita registrar amigos, e
 ### 📥 Agregar amigos
 ![Agregar nombres](./Img/agregando-amigos.png)
 
-### 🔁 Lista dinámica y eliminación
-![Lista de amigos](./Img/lista-eliminar.png)
+### ❌ Eliminar amigo de la lista
+![Lista de amigos](./Img/eliminar-amigos.png)
 
 ### 🎉 Resultado del sorteo
 ![Sorteo realizado](./Img/mostrar-resultado.png)
