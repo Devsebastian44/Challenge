@@ -47,6 +47,6 @@ El objetivo es crear una aplicación interactiva que permita registrar amigos, e
 
 ---
 
-## 🎥 Demo en video
+## 🎥 Video de muestra
 
 ![Muestra](Muestra.gif)
