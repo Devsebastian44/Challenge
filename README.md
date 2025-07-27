@@ -1,5 +1,9 @@
 ## 💻 Challenge de Programación - Amigo secreto
 
+<p align="center">
+  <img src="./Img/Badge.png" alt="Insignia Oracle Next Education" width="450"/>
+</p>
+
 Este proyecto fue desarrollado como parte de un *Challenge* de programación propuesto por **Alura Latam**, utilizando **JavaScript**.  
 El objetivo del reto fue poner en práctica habilidades fundamentales de lógica, manipulación del DOM y programación estructurada.
 
